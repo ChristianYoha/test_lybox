@@ -1,9 +1,11 @@
 # Range Sum
-language : php
+language : php, 
+
 status : Finished
 
 
 # Regex
-language : JavaScript
+language : JavaScript,
+
 status : Not finished
 
