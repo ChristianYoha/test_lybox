@@ -1,6 +1,6 @@
 
 
-const ExtractRent: float = (content: string ) =>{
+const ExtractRent = (content: string ) : float =>{
 
     var currency = ["euros", "€"];
     var period  = ["par mois", "/mois"];
